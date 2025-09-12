@@ -1,0 +1,15 @@
+[
+  {
+      "metadata": {
+          "name": "baremetal-os-container 2.2.1"
+      },
+      "spec": {
+          "version": "v2.2.1",
+          "type": "container",
+          "metadata": {
+              "upgradeImage": "registry.suse.com/suse/sl-micro/6.1/baremetal-os-container:2.2.1",
+              "displayName": "baremetal-os-container 2.2.1"
+          }
+      }
+  }
+]
